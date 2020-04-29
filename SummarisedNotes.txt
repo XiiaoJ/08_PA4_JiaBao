@@ -4,3 +4,18 @@ Unit testing is a type of whitebox testing
 Integration testing are tests that validate how modules of code work together
 Integration testing is conducted by a user playing your game(Tester)
 Integration is can be both blackbox testing or whitebox testing
+
+System Testing
+1. System testing is the execution of the software in its final configuration, including
+integration with other software and hardware systems. It tests for security, performance,
+resource loss, timing problems, and other issues that can’t be tested at lower levels of
+integration.
+2. System Testing is done by the system.
+3. Whitebox Testing
+
+Acceptance testing
+1. To goal of acceptance testing is to evaluate and validate that the system’s
+functionality meets the customer’s requirements, standards and business needs before
+the final delivery
+2. Acceptance testing is done by customers
+3. Can be Black and Whitebox testing 
