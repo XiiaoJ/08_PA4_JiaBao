@@ -1,0 +1,6 @@
+Unit testing is to test the smallest units or software components in a program
+Unit testing is conducted by the developer using development tools in his IDE(Integrated Development Environment
+Unit testing is a type of whitebox testing
+Integration testing are tests that validate how modules of code work together
+Integration testing is conducted by a user playing your game(Tester)
+Integration is can be both blackbox testing or whitebox testing
